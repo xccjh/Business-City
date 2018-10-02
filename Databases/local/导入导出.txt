@@ -1,0 +1,3 @@
+C:\Program Files\MongoDB\Server\3.2\bin
+mongoexport -h localhost:27017 -d local -c users -o e:2/users.json
+mongoexport -h localhost:27017 -d local -c goods -o e:2/goods.json
