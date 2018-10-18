@@ -24,7 +24,7 @@ npm run build
 
 ![localhost_8081 _1](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081%20_1.png)
 
-![localhost_8081_ 2]https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%202.png)
+![localhost_8081_ 2]（https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%202.png)
 
 ![localhost_8081_ 3](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%203.png)
 
@@ -48,7 +48,7 @@ here are multiple modules with names that only differ in casing.
 This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 Use equal casing. Compare these module identifiers
 
-```
+
 
 这是因为你引入vuex的时候有的地方首字母大写,有的地方首字母小写导致的,如下:
 
@@ -137,7 +137,7 @@ Mongodb中的mongoexport工具可以把一个collection导出成JSON格式或CSV
 
 - -q:指明导出数据的过滤条件
 
-  ​
+
 
 # 导出工具mongoexport
 
