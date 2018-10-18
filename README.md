@@ -22,15 +22,15 @@ npm run build
 ```
 # 这是一个前后端共用一个package.json的项目
 
-![localhost_8081 _1](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081 _1.png)
+![localhost_8081 _1](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081%20_1.png)
 
-![localhost_8081_ 2](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 2.png)
+![localhost_8081_ 2]https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%202.png)
 
-![localhost_8081_ 3](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 3.png)
+![localhost_8081_ 3](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%203.png)
 
-![localhost_8081_ 4](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 4.png)
+![localhost_8081_ 4](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%204.png)
 
-![localhost_8081_ 5](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 5.png)
+![localhost_8081_ 5](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%205.png)
 
 # 这是一个前后端共用一个package.json的项目
 
