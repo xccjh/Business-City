@@ -32,8 +32,6 @@ npm run build
 
 ![localhost_8081_ 5](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%205.png)
 
-# 这是一个前后端共用一个package.json的项目
-
 ## 用命令行把修改过后的代码上传到github
 
 1. git add .
