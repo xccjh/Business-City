@@ -1,6 +1,6 @@
-# Business-City
+# 商城项目
 
-> A Vue.js project.
+> A Vue2.0+Node.js+MongoDB Project.
 
 ``` bash
 #导入数据库
