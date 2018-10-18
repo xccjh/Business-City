@@ -18,6 +18,7 @@ npm run dev
 npm run build
 
 ``
+<<<<<<< HEAD
 ```
 # 这是一个前后端共用一个package.json的项目
 
@@ -31,6 +32,7 @@ npm run build
 
 ![localhost_8081_ 5](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 5.png)
 
+# 这是一个前后端共用一个package.json的项目
 
 ## 用命令行把修改过后的代码上传到github
 
@@ -173,5 +175,6 @@ mongoimport -d local -c students --type csv --headerline --file f:/beifen/studen
 - -type:指明要导入的文件格式，不写默认json
 - -headerline:指明第一行是列名，不需要导入
 - -file：指明要导入的文件
+
 
 ```
