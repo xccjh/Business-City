@@ -17,11 +17,20 @@ npm run dev
 # 打包项目
 npm run build
 
+``
 ```
-
 # 这是一个前后端共用一个package.json的项目
 
-## [主流开源协议之间异同](https://www.zhihu.com/question/19568896)
+![localhost_8081 _1](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081 _1.png)
+
+![localhost_8081_ 2](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 2.png)
+
+![localhost_8081_ 3](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 3.png)
+
+![localhost_8081_ 4](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 4.png)
+
+![localhost_8081_ 5](C:\Users\Administrator\Downloads\Business-City-master\images\localhost_8081_ 5.png)
+
 
 ## 用命令行把修改过后的代码上传到github
 
@@ -33,10 +42,10 @@ npm run build
 
 使用vuex有时会报如下的错误
 
-```
 here are multiple modules with names that only differ in casing.
 This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
 Use equal casing. Compare these module identifiers
+
 ```
 
 这是因为你引入vuex的时候有的地方首字母大写,有的地方首字母小写导致的,如下:
@@ -164,3 +173,5 @@ mongoimport -d local -c students --type csv --headerline --file f:/beifen/studen
 - -type:指明要导入的文件格式，不写默认json
 - -headerline:指明第一行是列名，不需要导入
 - -file：指明要导入的文件
+
+```
