@@ -1,4 +1,3 @@
-# 商城项目
 
 > A Vue2.0+Node.js+MongoDB Project.
 
@@ -17,26 +16,8 @@ npm run dev
 # 打包项目
 npm run build
 
-``
-<<<<<<< HEAD
 ```
-# 这是一个前后端共用一个package.json的项目
 
-![localhost_8081 _1](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081%20_1.png)
-
-![localhost_8081_ 2](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%202.png)
-
-![localhost_8081_ 3](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%203.png)
-
-![localhost_8081_ 4](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%204.png)
-
-![localhost_8081_ 5](https://github.com/xccjh/Business-City/blob/master/images/localhost_8081_%205.png)
-
-## 用命令行把修改过后的代码上传到github
-
-1. git add .
-2. git commit -m "提交信息"
-3. git push
 
 # 1.坑：使用vuex时遇到
 
