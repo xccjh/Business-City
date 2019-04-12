@@ -154,3 +154,8 @@ mongoimport -d local -c students --type csv --headerline --file f:/beifen/studen
 - -type:指明要导入的文件格式，不写默认json
 - -headerline:指明第一行是列名，不需要导入
 - -file：指明要导入的文件
+![image](https://github.com/xccjh/commerce-project/blob/master/static/localhost_8081_1.png)
+![image](https://github.com/xccjh/commerce-project/blob/master/static/localhost_8081_%202.png)
+![image](https://github.com/xccjh/commerce-project/blob/master/static/localhost_8081_%203.png)
+![image](https://github.com/xccjh/commerce-project/blob/master/static/localhost_8081_%204.png)
+![image](https://github.com/xccjh/commerce-project/blob/master/static/localhost_8081_%205.png)
